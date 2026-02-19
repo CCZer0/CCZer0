@@ -3,7 +3,7 @@
 <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Lucas+Farias;Python+%7C+Data+Analytics+%7C+Cybersecurity;Building+real+solutions;Future+Tech+Professional" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Lucas+Farias;Python+%7C+Data+Analytics+%7C+Cybersecurity;Building+real+solutions;Future+Tech+Professional" />
 </a>
 
 </div>
