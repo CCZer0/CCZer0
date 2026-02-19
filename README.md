@@ -1,80 +1,109 @@
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+<img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Lucas+Farias;Python+%7C+Data+Analytics+%7C+Cybersecurity;Building+real+solutions;Future+Tech+Professional" />
+</a>
+
 </div>
 
-###
+---
+
+## 🧠 About Me
+
+Sou estudante de **Sistemas de Informação na CESAR School**, em transição estratégica para tecnologia com foco em:
+
+> **Data Analytics • Automação com Python • Fundamentos de Cybersecurity**
+
+Combino raciocínio lógico, organização operacional e aprendizado acelerado para desenvolver soluções orientadas a dados.
+
+🎯 Objetivo: atuar como **estagiário ou desenvolvedor júnior**, gerando impacto técnico desde o início.
+
+---
+
+## ⚡ Tech Arsenal
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+Lucas+Farias;Python+%7C+SQL+%7C+Data+Analytics;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Foco+em+Dados+e+Ciberseguran%C3%A7a" alt="Typing SVG" />
-  </a>
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00FF41"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41"/>
+
+</div>
+
+---
+
+## 🔥 Featured Focus
+
+* Automação de processos com Python
+* Análise exploratória de dados
+* Estruturação e limpeza de datasets
+* Fundamentos de segurança e lógica computacional
+
+---
+
+## 📚 Currently Learning
+
+* Estruturas de dados aplicadas em Python
+* SQL para análise de dados avançada
+* Fundamentos de segurança ofensiva
+* Visualização estratégica de dados
+* Versionamento profissional com Git
+
+> *Mentalidade: aprender → aplicar → documentar → evoluir*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CCZer0&show_icons=true&theme=github_dark&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCZer0&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+## 📂 Highlight Projects
+
+🔹 Automação de tarefas com Python
+🔹 Análise de dados aplicada
+🔹 Projetos acadêmicos de desenvolvimento
+
+*(Confira os repositórios fixados abaixo 👇)*
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+Aberto a oportunidades, networking e colaboração.
+
+<a href="https://www.linkedin.com/in/lucas-farias-934a93320">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+<a href="mailto:lucasfariasti.0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>🚀 Sobre Mim</h3>
-</div>
 
-<p align="center">
-Sou estudante de <b>Sistemas de Informação na CESAR School</b>, em transição estratégica para a área de Tecnologia.  
-Tenho foco em <b>Análise de Dados</b>, <b>Automação com Python</b> e <b>Fundamentos de Cibersegurança</b>.  
+⚡ *Always building. Always learning.*
 
-Busco desenvolver soluções orientadas a dados, aplicando lógica, organização e boas práticas de código.
-</p>
-
-<p align="center">
-🎯 Objetivo: Atuar como Estagiário ou Desenvolvedor Júnior em Dados ou Segurança da Informação.
-</p>
-
----
-
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
-
----
-
-<div align="center">
-  <h3>📂 Projetos em Destaque</h3>
-</div>
-
-<p align="center">
-🔹 Automação de Processos com Python <br>
-🔹 Análise Exploratória de Dados <br>
-🔹 Projetos Acadêmicos em Desenvolvimento Web <br>
-</p>
-
----
-
-<div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CCZer0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCZer0&layout=compact&theme=github_dark"/>
-</div>
-
----
-
-<div align="center">
-  <h3>📫 Contato</h3>
-  <p>Aberto a oportunidades, networking e colaboração.</p>
-  <a href="https://www.linkedin.com/in/lucas-farias-934a93320" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucasfariasti.0@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
